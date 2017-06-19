@@ -7,3 +7,14 @@
 /build
 /captures
 .externalNativeBuild
+/.idea
+_linux
+/_linux
+inspection
+/inspection
+debugger.xml
+IntelliLang.xml
+androidStudioFirstRun.xml
+diff.xml
+github_settings.xml
+ide.general.xml
