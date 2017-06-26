@@ -4,11 +4,10 @@ package liese.jrg.gitorg;
  * Created by john_smith on 19.06.17.
  */
 
-
-/**
- * Created by Jörg.Liese on 16.06.2017.
- */
-
+ //Login ist der Name der Organisation und description Bezeichnung der Organisation
+ //Nur die beiden lassen wir uns anzeigen
+ //Objekt orientierte Progammierung
+ 
 public class Organization {
 
     private String login;
