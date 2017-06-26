@@ -1,16 +1,16 @@
+
 package liese.jrg.gitorg;
 
 /**
  * Created by john_smith on 19.06.17.
  */
-
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
 
-/**
- * Created by Jörg.Liese on 16.06.2017.
- */
 
+//json umwandeln in java jsonschema2pojo.org 
+//von GitHub geholt und dann umgewandelt auf der oben angegebenen Seite 
+//ausgewählt was auf der Seite steht -> werden Variablen Getter und Setter erzeugt 
 public class GitHubJson {
     @SerializedName("login")
     @Expose
